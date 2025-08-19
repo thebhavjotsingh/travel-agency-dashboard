@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dab57f3-5e71-463a-8096-672c746679d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/admin/admin-layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/admin/all-users.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/admin/dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/MobileSidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NavItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StatsCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TripCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/admin/admin-layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/admin/admin-layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/admin/all-users.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/admin/all-users.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/admin/dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/admin/dashboard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,9 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="31Ti08LTBzBnFALnnYD0XzY0XP6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "ts.external.directory.path": "E:\\Data\\Projects\\travel-agency\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,6 +59,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Data\Projects\travel-agency" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Data\Projects\travel-agency\app" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -70,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755554237953</updated>
-      <workItem from="1755554239202" duration="4523000" />
+      <workItem from="1755554239202" duration="13056000" />
     </task>
     <servers />
   </component>
