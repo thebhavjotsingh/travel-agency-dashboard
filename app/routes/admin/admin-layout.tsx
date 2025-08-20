@@ -12,6 +12,8 @@ export async function clientLoader() {
 
         const existingUser = await getExistingUser(user.$id);
 
+        console.log(existingUser);
+
         if (existingUser?.status === 'user') {
             return redirect("/");
         }
