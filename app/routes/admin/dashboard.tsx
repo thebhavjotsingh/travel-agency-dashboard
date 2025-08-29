@@ -62,7 +62,4 @@ const Dashboard = ({ loaderData }: Route.ComponentProps) => {
         </main>
     )
 }
-export async function loader() {
-  throw new Error("some error thrown in a loader");
-}
 export default Dashboard

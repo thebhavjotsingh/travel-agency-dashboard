@@ -49,7 +49,7 @@ function handleRequest(
           );
 
             // this enables distributed tracing between client and server
-            pipe(getMetaTagTransformer(body));
+            // pipe(getMetaTagTransformer(body));
 
             pipe(body);
         },
