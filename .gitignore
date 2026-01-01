@@ -6,4 +6,7 @@
 /build/
 
 # Environment
-.env
+/.env.local
+
+# IDE
+.idea/
